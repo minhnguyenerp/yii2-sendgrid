@@ -13,7 +13,7 @@
         }
     ],
 	"require": {
-		"sendgrid/sendgrid": "~4.0"
+		"sendgrid/sendgrid": "*"
 	},
     "autoload": {
         "psr-4": {
